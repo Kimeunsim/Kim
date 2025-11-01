@@ -1,0 +1,25 @@
+Lesson 1
+Make a table 
+- SQl: Database DB, structured Query language 
+
+Database cheat sheet 
+Normalization  
+1FN: cannot split up 
+
+Make DATABASE
+
+foreign Key 
+unique key; not duplicated 
+non changable value should be use it 
+complex key: using 2 columns
+Id: random character: Decimal ID, NanoID to protect the privacy of the company. 
+
+ERD: primary and foreign key: 
+relation
+ -- 1: 1 relations: 
+ -- 1:N
+ -- N:N : name: number : middle table needed 
+Sleack  1 : 2 leg: 1: N 
+
+4. Soft delete vs hard delete 
+
