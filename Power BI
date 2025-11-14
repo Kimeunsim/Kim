@@ -1,0 +1,28 @@
+BI business intelligence: microsoft made 
+dashboard/visual 
+Excel BI 
+
+Power Query: various form of data. 
+Power Pivot: 1억
+Power View: 
+Power Map 
+
+
+Report process: import data --> data mining--> data modeling(relationship, DAX)--> visualize -->export (best in powerBI service, not free)
+
+1. exchange rate report 
+
+get data-> web-->url--> query--> close and apply
+currency -x, day before=y
+Format - visualizing tool 
+analyze
+graph--> scale up
+open-->open report 
+pdf-->export 
+connect certified connectors 
+
+page 001-report, ... delete from model 
+Hide function 
+
+
+
