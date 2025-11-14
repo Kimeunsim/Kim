@@ -22,4 +22,31 @@ relation
 Sleack  1 : 2 leg: 1: N 
 
 4. Soft delete vs hard delete 
+delete with authority. 
+Users and privileges 
+
+5. ERD 
+database--> reverse engineer : know the relations. 
+ERD cloud: make account, bring DDL 
+
+6. Select and where 
+refresh 
+tool bar--> options--> delete auto increment 
+where: condition. 
+SELECT * From zerocho.employee; select whole
+id, name: keyword 
+`` string 
+-With where team="development";
+Is(Not) Null
+between created_at(data) >=
+OR team 
+
+
+
+
+
+
+
+
+
 
